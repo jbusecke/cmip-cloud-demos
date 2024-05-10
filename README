@@ -2,6 +2,15 @@
 
 ## Quickstart
 
+Install and activate the environment and start jupyterlab
+```
+mamba env create -f environment.yml
+mamba activate cmip-cloud-demos
+jupyter-lab
+```
+
+Then navigate to the folder relevant for your event, and open the notebooks!
+
 ## Presentation Log
 
 ### 2024-05-10: Stanford Ocean Working Group Presentation 

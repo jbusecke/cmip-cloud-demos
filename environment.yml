@@ -1,0 +1,22 @@
+name: cmip-cloud-demos
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - xarray
+  - numpy
+  - dask
+  - distributed
+  - xmip
+  - xarray-datatree
+  - matplotlib
+  - cartopy
+  - cftime
+  - fsspec
+  - gcsfs
+  - cf_xarray
+  - intake-esm
+  - jupyterlab
+  - pip
+  - pip:
+    - git+https://github.com/jbusecke/xarrayutils.git@master
