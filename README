@@ -9,6 +9,9 @@ mamba activate cmip-cloud-demos
 jupyter-lab
 ```
 
+>[!NOTE]
+> If you do not have `mamba` installed, you can replace it with `conda`
+
 Then navigate to the folder relevant for your event, and open the notebooks!
 
 ## Presentation Log
