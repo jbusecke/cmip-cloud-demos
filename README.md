@@ -1,6 +1,6 @@
 # Collection of demonstrations using the Pangeo/ESGF CMIP6 Zarr Data
 
-[Data Repo]](https://pangeo-data.github.io/pangeo-cmip6-cloud/overview.html)
+[Data Repo](https://pangeo-data.github.io/pangeo-cmip6-cloud/overview.html)
 
 ## Quickstart
 
